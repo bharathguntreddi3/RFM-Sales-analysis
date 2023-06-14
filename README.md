@@ -77,7 +77,7 @@ Feel free to explore the repository and customize the SQL queries according to y
 
 Here is a preview of the interactive dashboard created using Tableau:
 
-![Dashboard](RFM_Sales_1.png)
+![RFM_Sales_1](https://github.com/bharathguntreddi3/RFM-Sales-analysis/assets/95229816/40e754eb-f407-4972-8159-25decc80fa88)
 
 ### Find the Live Dashboard [here](https://public.tableau.com/app/profile/guntreddi.bharath/viz/RFM_MetricSales/RFM_Sales_1?publish=yes)
 
